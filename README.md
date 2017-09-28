@@ -9,3 +9,4 @@ Now make changes from master. Testing new branch.
 
 Making changes via GitBash.
 Make change to make conflict =>
+Make conflict and try again
