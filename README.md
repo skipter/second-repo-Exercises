@@ -8,3 +8,5 @@ making some changes here!
 Now make changes from master. Testing new branch.
 
 Making changes via GitBash.
+Now make a conflict.
+Try agains
