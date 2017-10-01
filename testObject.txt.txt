@@ -1,1 +1,6 @@
 Testing to add and commit with TortoiseGit
+
+
+
+Add text with browser 
+Now have to pull with tortoiseGit
