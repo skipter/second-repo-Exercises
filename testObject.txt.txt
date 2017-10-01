@@ -6,8 +6,17 @@ Add text with browser
 Now have to pull with tortoiseGit
 Pull - ok.
 Now test new commit.
+Testing to add and commit with TortoiseGit
 
 
+
+Add text with browser 
+Now have to pull with tortoiseGit
+Pull - ok.
+Now test new commit.
+
+
+Now make a conflict!!!
 
 
 Get ready to edit!!!
